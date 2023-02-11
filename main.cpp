@@ -1262,7 +1262,7 @@ int main()
 	system("cls");
 	system("color 4");
 	cout<<"\t\t\t ---------------------"<<endl;
-	cout<<"\t\t\t| STATE BANK OF INDIA |"<<endl;
+	cout<<"\t\t\t| MANJU BANK OF INDIA |"<<endl;
 	cout<<"\t\t\t ---------------------"<<endl;
 	system("color 3");
 	cout<<"\n\n\t\t\t\t MENU\n";
